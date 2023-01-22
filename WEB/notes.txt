@@ -1,0 +1,37 @@
+To add a record send a get request
+==================================
+
+* when adding date user the format yyyymmdd without any spaces or dashes
+i =>
+d =>
+c => 
+http://localhost/hp1/s/e.php?i=&d=&c=
+
+* For example
+http://localhost/hp1/s/e.php?i=abc111de&d=19032021&c=3
+
+12345678
+124.43.42.225
+http://124.43.42.225/hp1/s/e.php?i=12345678&d=20210320&c=3
+
+
+lakdilu
+=======
+lakdilu    jpNO9stW
+suren Gc4Nf@qm
+
+
+
+
+for yasiru
+==========
+
+http://localhost/hp1/s/e.php?i=150150150&d=20220304&c=4
+
+
+
+
+USER side credentials
+====================
+
+0301yasiru, iFVc9bqI
